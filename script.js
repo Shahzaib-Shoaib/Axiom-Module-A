@@ -13,7 +13,7 @@ function showWebsites(websites) {
     websitesHTML += `
                 <div class="row work-row"> 
                   <div class= ${website.imgClass} >
-                      <img src=${website.imgSrc} alt="">
+                      <img src="/placeholder.png" alt="">
                   </div>
                   <div class=${website.detailsClass}>
                       <div class="details details-ftm">
