@@ -6,16 +6,15 @@ function getWebsites() {
     });
 }
 
-// <div class= ${website.imgClass} >
-// <img src=${website.imgSrc} alt="">
-// </div>
 function showWebsites(websites) {
   let websitesContainer = document.querySelector(".websites-container");
   let websitesHTML = "";
   websites.forEach((website) => {
     websitesHTML += `
                 <div class="row work-row"> 
-              
+                  <div class= ${website.imgClass} >
+                      <img src=${website.imgSrc} alt="">
+                  </div>
                   <div class=${website.detailsClass}>
                       <div class="details details-ftm">
                           <h3>${website.name}</h3>
