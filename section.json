@@ -11,9 +11,9 @@
     "imgClass": "evenImg",
     "imgSrc": "./Captures/Seat-Selector.png",
     "detailsClass": "evenDetails",
-    "name": "Seat Selector",
-    "detail": "A Seat Selector made with HTML,CSS and JS. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-2/index.html"
+    "name": "Cinema Seat Selector",
+    "detail": "A Cinema Seat Selector made with HTML,CSS and JS. A project from Axiom FSD Module-A.",
+    "linkUrl": "/cinema-seat-selector/index.html"
   },
   {
     "imgClass": " oddImg ",
@@ -21,7 +21,7 @@
     "detailsClass": "oddDetails",
     "name": "Custom Video Player",
     "detail": "Custom Video Player made with HTML,CSS and JS. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-3/index.html"
+    "linkUrl": "/custom-video-player/index.html"
   },
   {
     "imgClass": "evenImg",
@@ -29,7 +29,7 @@
     "detailsClass": "evenDetails",
     "name": "Exchange Rate Calculator",
     "detail": "An Exchange Rate Calculator made with HTML,CSS,JS and API. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-4/index.html"
+    "linkUrl": "/exchange-rate-calculator/index.html"
   },
   {
     "imgClass": " oddImg ",
@@ -37,7 +37,7 @@
     "detailsClass": "oddDetails",
     "name": "DOM Array",
     "detail": "DOM Array made with HTML,CSS and JS. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-5/index.html"
+    "linkUrl": "/dom-array/index.html"
   },
   {
     "imgClass": "evenImg",
@@ -45,7 +45,7 @@
     "detailsClass": "evenDetails",
     "name": " Landing Page",
     "detail": "Landing Page made with HTML,CSS and JS with a Signup modal. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-6/index.html"
+    "linkUrl": "/landing-page/index.html"
   },
   {
     "imgClass": " oddImg ",
@@ -53,7 +53,7 @@
     "detailsClass": "oddDetails",
     "name": "Classic Hangman Game",
     "detail": "Classic Hangman Game made with HTML,CSS and JS. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-7/index.html"
+    "linkUrl": "/hangman/index.html"
   },
   {
     "imgClass": "evenImg",
@@ -61,7 +61,7 @@
     "detailsClass": "evenDetails",
     "name": " Meal Generator",
     "detail": "Meal Generator made with HTML,CSS,JS and API. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-8/index.html"
+    "linkUrl": "/meal-generator/index.html"
   },
   {
     "imgClass": " oddImg ",
@@ -69,7 +69,7 @@
     "detailsClass": "oddDetails",
     "name": "Expense Tracker",
     "detail": "Expense Tracker made with HTML,CSS and JS. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-9/index.html"
+    "linkUrl": "/expense-tracker/index.html"
   },
   {
     "imgClass": "evenImg",
@@ -77,7 +77,7 @@
     "detailsClass": "evenDetails",
     "name": "Music Player",
     "detail": "Music Player made with HTML,CSS and JS. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-10/index.html"
+    "linkUrl": "/music-player/index.html"
   },
   {
     "imgClass": " oddImg ",
@@ -85,7 +85,7 @@
     "detailsClass": "oddDetails",
     "name": "Infinite Scrolling App",
     "detail": "Infinite Scrolling App made with HTML,CSS,JS and API. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-11/index.html"
+    "linkUrl": "/infinite-scrolling-app/index.html"
   },
   {
     "imgClass": "evenImg",
@@ -93,7 +93,7 @@
     "detailsClass": "evenDetails",
     "name": "Typing Game",
     "detail": "Typing Game made with HTML,CSS and JS. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-12/index.html"
+    "linkUrl": "/typing-game/index.html"
   },
   {
     "imgClass": " oddImg ",
@@ -101,15 +101,15 @@
     "detailsClass": "oddDetails",
     "name": "Memory Card",
     "detail": "Memory Card Game made with HTML,CSS and JS. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-13/index.html"
+    "linkUrl": "/memory-card/index.html"
   },
   {
     "imgClass": "evenImg",
     "imgSrc": "./Captures/Web-Speech.png",
     "detailsClass": "evenDetails",
-    "name": "Web Speech",
+    "name": "Web to Speech",
     "detail": "Web to speech made with HTML,CSS and JS. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-14/index.html"
+    "linkUrl": "/web-to-speech/index.html"
   },
   {
     "imgClass": " oddImg ",
@@ -117,6 +117,6 @@
     "detailsClass": "oddDetails",
     "name": "Lyrics Finder",
     "detail": "Lyrics Finder made with HTML,CSS,JS and API. A project from Axiom FSD Module-A.",
-    "linkUrl": "../Axiom-Module-A/Project-15/index.html"
+    "linkUrl": "/lyrics=finder/index.html"
   }
 ]
